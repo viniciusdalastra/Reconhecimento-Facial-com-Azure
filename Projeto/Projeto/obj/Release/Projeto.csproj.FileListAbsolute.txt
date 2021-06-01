@@ -1,0 +1,14 @@
+C:\Users\Dalastra\source\repos\Projeto\Projeto\bin\Release\Projeto.exe.config
+C:\Users\Dalastra\source\repos\Projeto\Projeto\bin\Release\Projeto.exe
+C:\Users\Dalastra\source\repos\Projeto\Projeto\bin\Release\Projeto.pdb
+C:\Users\Dalastra\source\repos\Projeto\Projeto\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Dalastra\source\repos\Projeto\Projeto\bin\Release\AForge.Video.dll
+C:\Users\Dalastra\source\repos\Projeto\Projeto\bin\Release\AForge.dll
+C:\Users\Dalastra\source\repos\Projeto\Projeto\bin\Release\AForge.xml
+C:\Users\Dalastra\source\repos\Projeto\Projeto\obj\Release\Projeto.Form1.resources
+C:\Users\Dalastra\source\repos\Projeto\Projeto\obj\Release\Projeto.Properties.Resources.resources
+C:\Users\Dalastra\source\repos\Projeto\Projeto\obj\Release\Projeto.csproj.GenerateResource.cache
+C:\Users\Dalastra\source\repos\Projeto\Projeto\obj\Release\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Dalastra\source\repos\Projeto\Projeto\obj\Release\Projeto.csproj.CopyComplete
+C:\Users\Dalastra\source\repos\Projeto\Projeto\obj\Release\Projeto.exe
+C:\Users\Dalastra\source\repos\Projeto\Projeto\obj\Release\Projeto.pdb
